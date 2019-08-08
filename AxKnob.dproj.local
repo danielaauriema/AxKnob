@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/08 12:26:17.000.970,=rtl.dcp</Transaction>
+    <Transaction>2019/08/08 12:26:57.000.820,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\AxKnob.dproj</Transaction>
+    <Transaction>2019/08/08 12:27:13.000.346,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/08/08 12:27:52.000.887,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\data\dev\Knob\Knob\AxKnob.pas</Transaction>
+    <Transaction>2019/08/08 12:28:26.000.928,C:\data\dev\Knob\Knob\AxKnob.pas=C:\data\dev\Knob\Knob\AxCustomKnob.pas</Transaction>
+    <Transaction>2019/08/08 12:28:39.000.080,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\AxKnob.dproj=C:\data\dev\Knob\Knob\AxKnob.dproj</Transaction>
+    <Transaction>2019/08/08 12:31:42.000.042,=vcl.dcp</Transaction>
+    <Transaction>2019/08/08 12:37:57.000.239,C:\data\dev\Knob\Knob\AxCustomKnob.pas=C:\data\dev\Knob\Knob\AxKnob.pas</Transaction>
+  </Transactions>
+</BorlandProject>
