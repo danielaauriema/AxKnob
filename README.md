@@ -1,7 +1,6 @@
 # AxKnob
-Simple Knob Delphi Component
 
-A very simple Delphi component.
+A very simple Delphi Knob component.
 
 ## Screen Shots
 
